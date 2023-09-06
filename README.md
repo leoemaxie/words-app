@@ -1,14 +1,13 @@
-# Tip Calculator
+# Words App
 
 ## Overview
-A simple android app that calculates the tip a user should pay based on the bill (cost of service) and the tip percent.
+A simple android app that that displays a list of words that starts with a letter chosen by the user. For convenience, the user can check the meaning of the word directly within the app.
 
 ## What I learnt
-* Responding to keyboard input.
-* Using Googles's Material Library.
-* Various methods and attributes of the following Android views: ImageView, RadioButton and Switch.
-* Customizing styles and extending Google's Material Library.
-* Formatting Currency.
+* Navigating between two activities using `Intent`
+* Using Companion Object in a class.
+* Using `RecyclerView` and `List Adapter` 
+* Displaying Views based on a data model using a list of data class.
 
 ## Building the App
 This project was built using gradle 8.1.* and JVM 11
